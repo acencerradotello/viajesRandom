@@ -7,16 +7,43 @@
     <title>footer</title>
     <link rel="stylesheet" type="text/css" href="estilosmenu.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+
+    
 </head>
 <body>
+  
+<div class="card  bg-dark" style="min-width: 100%;  position: absolute; bottom: 0;">
+  
+  <div class="card-body font-weight-bold">
+  <div class="d-flex justify-content-center">
 
-<div class="card text-white bg-dark mb-3" style="min-width: 100em; position: absolute; bottom: 0;">
-  <div class="card-header">Header</div>
-  <div class="card-body">
-    <h4 class="card-title">Dark card title</h4>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <div class="col-md-3 col-sm-12 text-sm-left">
+        <h5 class="card-title ">Ayuda y servicios</h5>
+      <div class='links  text-left '>
+      <h6><a href='#'class="card-text text-primary  " >Ayuda y contacto</a><br/></h6>
+      <h6><a href='#'class="card-text text-primary">¿Como funciona?</a><br/></h6>
+      <h6><a href='#'class="card-text text-primary">Condiciones generales</a><br/></h6>
+      </div>
+    </div>
+
+    <div class="col-md-3 col-sm-12 text-left">
+      <h5 class="card-title">Empresa</h5>
+      <h6><a href='#'class="card-text text-primary">¿Quienes somos?</a><br/></h6>
+      <h6><a href='#'class="card-text text-primary">Politica de privacidad</a><br/></h6>
+      <h6><a href='#'class="card-text text-primary">Nuestro compromiso</a><br/></h6>
+      <h6><a href='#'class="card-text text-primary">Contacto</a><br/></h6>
+    </div>
+
+    <div class="col-md-3 col-sm-12 text-left">
+      <h5 class="card-title">Redes sociales</h5>
+      <h6><a href='#'class="card-text text-primary"><i class="fa fa-whatsapp" style='width: 14px'></i>   +34 673409986</a><br/></h6>
+      <h6><a href='#'class="card-text text-primary"><i class="fa fa-twitter" style='width: 14px'></i>    @tripAddict</a><br/></h6>
+      <h6><a href='#'class="card-text text-primary"><i class="fa fa-facebook" style='width: 14px'></i>   tripAddict</a><br/></h6>
+    </div>
   </div>
-</div>
+ 
+
     
 </body>
 </html>

@@ -8,17 +8,16 @@
     <link rel="stylesheet" type="text/css" href="estilosmenu.css">
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
-
-    
 </head>
 <body>
   
-<div class="card  bg-dark" style="min-width: 100%;  position: absolute; bottom: 0;">
+  
+<div class="card  bg-dark card-body" style="min-width: 100%;  position: ; bottom: 0;">
   
   <div class="card-body font-weight-bold">
   <div class="d-flex justify-content-center">
 
-    <div class="col-md-3 col-sm-12 text-sm-left">
+    <div class="col-md-3 col-sm-12 text-sm-left ">
         <h5 class="card-title ">Ayuda y servicios</h5>
       <div class='links  text-left '>
       <h6><a href='#'class="card-text text-primary  " >Ayuda y contacto</a><br/></h6>

@@ -77,8 +77,7 @@
                         <div class="status"></div>
 
                         </form>
-
-                        
+             
                     </div>
                     <!--Grid column-->
 

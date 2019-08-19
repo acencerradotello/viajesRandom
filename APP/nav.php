@@ -21,21 +21,19 @@
     </ul>
 
     <ul class="navbar-nav ml-auto">
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="#"><i class="fa fa-shopping-cart fa-lg" aria-hidden="true"></i></a>
       </li>
 
-      
       <!--inicio DROPDOWN-->
       <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button"
-     aria-haspopup="true" aria-expanded="false"><i class="fa fa-user fa-lg" aria-hidden="true"> </i> Usuario</a>
-    <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Mi cuenta</a>
-      <div class="dropdown-divider"></div>
-      <a class="dropdown-item" href="#">Mis packs</a>
-      
-    </div>
+          <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-user fa-lg" aria-hidden="true"> </i> Usuario</a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item" href="#">Mi cuenta</a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item" href="#">Mis packs</a>
+            
+          </div>
       </li>
       
       <!--final DROPDOWN-->

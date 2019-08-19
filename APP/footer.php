@@ -11,21 +11,13 @@
 </head>
 <body>
   
-<<<<<<< HEAD
   
 <div class="card  bg-dark card-body" style="min-width: 100%;  position: ; bottom: 0;">
-=======
-<div class="card  bg-dark" style="min-width: 100%;  position: absolute; bottom: 0;">
->>>>>>> 13d2f6d8af5aad7cd079b42358ebd6047f8f29d9
   
   <div class="card-body font-weight-bold">
   <div class="d-flex justify-content-center">
 
-<<<<<<< HEAD
     <div class="col-md-3 col-sm-12 text-sm-left ">
-=======
-    <div class="col-md-3 col-sm-12 text-sm-left">
->>>>>>> 13d2f6d8af5aad7cd079b42358ebd6047f8f29d9
         <h5 class="card-title ">Ayuda y servicios</h5>
       <div class='links  text-left '>
       <h6><a href='#'class="card-text text-primary  " >Ayuda y contacto</a><br/></h6>
